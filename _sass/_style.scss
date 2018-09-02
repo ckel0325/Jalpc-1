@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 31px;
 }
 
 h2 {
@@ -256,8 +256,8 @@ body.canvas-menu .nav-header {
 }
 
 .top-navigation .navbar-brand {
-  background: #3385FF;
-  color: #fff;
+  background: #F7EF99;
+  color: black;
   padding: 15px 25px;
 }
 
@@ -2424,11 +2424,11 @@ body {
       .active > a {
         background: 0 0;
         color: #fff;
-        border-top: 6px solid #3385FF;
+        border-top: 6px solid #F7EF99;
         &:hover {
           background: 0 0;
           color: #fff;
-          border-top: 6px solid #3385FF;
+          border-top: 6px solid #F7EF99;
         }
       }
       li > a {
@@ -2448,8 +2448,8 @@ body {
     }
     .navbar-brand {
       &:focus, &:hover {
-        background: #3385FF;
-        color: #fff;
+        background: #F7EF99;
+        color: rgba(20,20,20,0.9);
       }
       color: #fff;
       height: auto;
